@@ -26,6 +26,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'simple_form', '~> 3.1.0'
 gem 'paperclip', '~> 4.2'
 gem 'bootstrap-sass', '~> 3.3.5'  
+gem 'devise'
+
 group :test do
 	gem 'rspec-rails', '~> 3.4'
 	gem "factory_girl_rails", "~> 4.0"
